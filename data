@@ -1,0 +1,12 @@
+Chocolate
+Chocolate is usually brown sweet food
+Chocolate types:
+milk Chocolate.
+white Chocolate.
+dark Chocolate.
+
+calories table:
+Chocolate_type bar_size quantity calories
+milk_Chocolate 100 g 1 piece 535 kca1
+white_Chocolate 100 g 1 piece 539 kca1
+dark_Chocolate 100 g 1 piece 599 kca1
